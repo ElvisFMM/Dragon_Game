@@ -5,7 +5,7 @@ const santaImage = new Image();
 santaImage.src = "/dragon.png";
 
 const speakerImage = new Image();
-speakerImage.src = "/Arrow.png";
+speakerImage.src = "/arrow1.png";
 
 const walkSnow = new Audio("walk-snow.mp3");
 
